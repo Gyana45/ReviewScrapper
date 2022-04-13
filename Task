@@ -1,0 +1,7 @@
+Go to ineuron.ai
+list down all the courses
+one by one scrap all the course page
+collects all the data segment wise
+store this data in mysql /mongodb
+deploy it on heroku,gcp,aws/azure
+share the link
